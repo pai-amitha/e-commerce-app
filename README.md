@@ -1,2 +1,2 @@
 # e-commerce-app
-MERN Stack E-Commerce App using React Native and Redux Toolkit
+MERN Stack Ecommerce App using React Native, Node.Js, Express.Js, MongoDB, and Redux Toolkit
